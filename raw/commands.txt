@@ -1,0 +1,13 @@
+Begin BayesPhylogenies;
+seed 950228
+autorun
+         Chains 1;
+         Cooling 2000000 -75;
+         it 100000000;
+         Model m1p;
+        cv 2
+         Root Buyang OldChinese;
+         bf emp;
+         pf 10000;
+
+end;
