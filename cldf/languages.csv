@@ -1,11 +1,11 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name
 Agta,Agta,,17.9571,121.857,cent2084,,xd908,Central Cagayan Agta
-Aiwoo,Aiwoo,,-10.282595,166.328715,ayiw1239,,,Äiwoo
+Aiwoo,Aiwoo,,-10.30387,166.32344,ayiw1239,,,Äiwoo
 AklanonBisayan,AklanonBisayan,,11.5543,122.354,akla1241,,xd741,Kailibo Aklanon
 Alune,Alune,,-3.11477,128.394,alun1238,,,Alune
 AmbaiYapen,AmbaiYapen,,-1.88126,136.526,amba1265,,,Ambai
 AmbrymSouthEast,AmbrymSouthEast,,-16.2975,168.211,sout2859,,,Southeast Ambrym
-Anakalang,Anakalang,,-9.63425,119.605,anak1240,,,Anakalangu
+Anakalang,Anakalang,,-9.63425,119.605,anak1240,,,Anakalang
 AnejomAneityum,AnejomAneityum,,-20.1864,169.825,anei1239,,,Aneityum
 Anuta,Anuta,,-11.61,169.85,anut1237,,,Anuta
 Aputai,Aputai,,-7.84732,126.496,aput1237,,,Aputai
@@ -141,7 +141,7 @@ Kedang,Kedang,,-8.23039,123.77,keda1252,,,Kedang
 KeiTanimbarKei,KeiTanimbarKei,,-5.63948,133.02,keii1239,,,Kei
 KelabitBario,KelabitBario,,3.31783,115.428,kela1258,,,Kelabit
 Kemak,Kemak,,-9.00299,125.159,kema1243,,,Kemak
-KenyahLongAnap,KenyahLongAnap,,3.54443,114.039,main1275,,,Usun Apau Kenyah
+KenyahLongAnap,KenyahLongAnap,,3.42975,116.47431,main1275,,,Usun Apau Kenyah
 Kerinci,Kerinci,,-1.93668,101.403,keri1250,,,Kerinci
 KiaZabana,KiaZabana,,-7.74311,158.753,zaba1237,,,Zabana
 Kilivila,Kilivila,,-8.72574,151.072,kili1267,,xd852,Kilivila
@@ -186,7 +186,7 @@ MalayBahasaIndonesia,MalayBahasaIndonesia,,-7.33458,109.716,indo1316,,,Standard 
 Maleu,Maleu,,-5.61613,148.445,male1289,,,Maleu-Kilenge
 MaloSantaCruz,MaloSantaCruz,,,,malo1246,,,Malo
 Maloh,Maloh,,1.3156,112.63,emba1238,,,Embaloh
-Mamanwa,Mamanwa,,9.44744,125.548,mama1275,,,Mamanwa
+Mamanwa,Mamanwa,,9.44744,125.548,mama1275,,,Minamanwa
 Mambai,Mambai,,-9.19552,125.475,mamb1306,,,Mambae
 Mamboru,Mamboru,,-9.42302,119.55,mamb1305,,,Mamboru
 Manam,Manam,,-4.07921,145.033,mana1295,,xd806,Manam
@@ -277,7 +277,7 @@ Perai,Perai,,-7.62349,126.576,pera1257,,,Perai
 PeteraraMaewo,PeteraraMaewo,,,,pete1237,,,Peterara
 PhanRangChamEasternCham,PhanRangChamEasternCham,,11.2853,108.49,east2563,,xd718,Eastern Cham
 Ponapean,Ponapean,,6.87212,158.223,pohn1238,,xd836,Pohnpeian
-Pondok,Pondok,,-9.63425,119.605,anak1240,,,Anakalangu
+Pondok,Pondok,,-9.63425,119.605,anak1240,,,Anakalang
 Popalia,Popalia,,-5.7478,123.948,tuka1249,,,Tukang Besi South
 PuloAnnan,PuloAnnan,,5.328596,132.221282,sons1242,,,Sonsorol
 Puluwatese,Puluwatese,,7.35695,149.2005,pulu1242,,,Puluwatese
@@ -304,8 +304,8 @@ SamalSiasi_D,SamalSiasi_D,,7.004574,118.455978,cent2092,,,Central Sama
 SambalBotolan,SambalBotolan,,15.2315,120.164,boto1242,,xd904,Botolan Sambal
 Samoan,Samoan,,-13.92,-171.83,samo1305,,xd876 xd880,Samoan
 SangilSaraganiIslands,SangilSaraganiIslands,,5.40229,125.378,sang1337,,,Sangil
-Sangir,Sangir,,3.0,125.5,sang1336,,,Sangir
-SangirTabukang_D,SangirTabukang_D,,3.0,125.5,sang1336,,,Sangir
+Sangir,Sangir,,3.50554,125.56523,sang1336,,,Sangir
+SangirTabukang_D,SangirTabukang_D,,3.50554,125.56523,sang1336,,,Sangir
 SantaAna,SantaAna,,-10.82553,162.30467,owaa1237,,,Owa
 SaranganiBlaan,SaranganiBlaan,,6.03691,125.354,sara1326,,,Sarangani Blaan
 Sasak,Sasak,,-8.58349,116.284,sasa1249,,,Sasak
@@ -320,7 +320,7 @@ Serili,Serili,,-8.11241,129.901,seri1255,,,Serili
 Serua,Serua,,-6.31107,130.017294,seru1245,,,Serua
 Siar,Siar,,-4.62059,152.892,siar1238,,,Siar-Lak
 Sika,Sika,,-8.67302,122.38,sika1262,,,Sika
-Sikaiana,Sikaiana,,-8.378194,162.72952,sika1261,,,Sikaiana
+Sikaiana,Sikaiana,,-8.37701,162.72522,sika1261,,,Sikaiana
 Simbo,Simbo,,-8.26947,156.541,simb1256,,xd860,Simbo
 Singhi,Singhi,,1.54467,109.985,baub1235,,,Bau-Jagoi Bidayuh
 Siraya,Siraya,,22.9777,120.315,sira1267,,,Sirayaic
