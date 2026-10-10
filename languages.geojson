@@ -1,0 +1,6109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.857,
+          17.9571
+        ]
+      },
+      "properties": {
+        "Name": "Agta",
+        "Glottocode": "cent2084",
+        "xd_ids": [
+          "xd908"
+        ],
+        "Glottolog_Name": "Central Cagayan Agta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.32344,
+          -10.30387
+        ]
+      },
+      "properties": {
+        "Name": "Aiwoo",
+        "Glottocode": "ayiw1239",
+        "Glottolog_Name": "\u00c4iwoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.354,
+          11.5543
+        ]
+      },
+      "properties": {
+        "Name": "AklanonBisayan",
+        "Glottocode": "akla1241",
+        "xd_ids": [
+          "xd741"
+        ],
+        "Glottolog_Name": "Kailibo Aklanon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.394,
+          -3.11477
+        ]
+      },
+      "properties": {
+        "Name": "Alune",
+        "Glottocode": "alun1238",
+        "Glottolog_Name": "Alune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.526,
+          -1.88126
+        ]
+      },
+      "properties": {
+        "Name": "AmbaiYapen",
+        "Glottocode": "amba1265",
+        "Glottolog_Name": "Ambai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.211,
+          -16.2975
+        ]
+      },
+      "properties": {
+        "Name": "AmbrymSouthEast",
+        "Glottocode": "sout2859",
+        "Glottolog_Name": "Southeast Ambrym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.605,
+          -9.63425
+        ]
+      },
+      "properties": {
+        "Name": "Anakalang",
+        "Glottocode": "anak1240",
+        "Glottolog_Name": "Anakalang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.825,
+          -20.1864
+        ]
+      },
+      "properties": {
+        "Name": "AnejomAneityum",
+        "Glottocode": "anei1239",
+        "Glottolog_Name": "Aneityum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.85,
+          -11.61
+        ]
+      },
+      "properties": {
+        "Name": "Anuta",
+        "Glottocode": "anut1237",
+        "Glottolog_Name": "Anuta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.496,
+          -7.84732
+        ]
+      },
+      "properties": {
+        "Name": "Aputai",
+        "Glottocode": "aput1237",
+        "Glottolog_Name": "Aputai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.952542,
+          -15.632997
+        ]
+      },
+      "properties": {
+        "Name": "ArakiSouthwestSanto",
+        "Glottocode": "arak1252",
+        "Glottolog_Name": "Araki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.158,
+          -5.71155
+        ]
+      },
+      "properties": {
+        "Name": "Aria",
+        "Glottocode": "mouk1239",
+        "Glottolog_Name": "Mouk-Aria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.728,
+          -0.75267
+        ]
+      },
+      "properties": {
+        "Name": "As",
+        "Glottocode": "asss1237",
+        "Glottolog_Name": "As"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.499,
+          -11.2969
+        ]
+      },
+      "properties": {
+        "Name": "Asumboa",
+        "Glottocode": "asum1237",
+        "Glottolog_Name": "Asumboa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.144,
+          -9.77284
+        ]
+      },
+      "properties": {
+        "Name": "Atoni",
+        "Glottocode": "uabm1237",
+        "Glottolog_Name": "Uab Meto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3,
+          18.4738
+        ]
+      },
+      "properties": {
+        "Name": "AttaPamplona",
+        "Glottocode": "pamp1244",
+        "Glottolog_Name": "Pamplona Atta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.484,
+          -16.2701
+        ]
+      },
+      "properties": {
+        "Name": "Avava",
+        "Glottocode": "katb1237",
+        "Glottolog_Name": "Avava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.149,
+          -7.22281
+        ]
+      },
+      "properties": {
+        "Name": "Babatana",
+        "Glottocode": "baba1268",
+        "Glottolog_Name": "Babatana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96,
+          19.48
+        ]
+      },
+      "properties": {
+        "Name": "Babuyan",
+        "Glottocode": "babu1242",
+        "Glottolog_Name": "Babuyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.253,
+          -3.68664
+        ]
+      },
+      "properties": {
+        "Name": "Bajo",
+        "Glottocode": "indo1317",
+        "xd_ids": [
+          "xd736"
+        ],
+        "Glottolog_Name": "Indonesian Bajau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.272,
+          17.0994
+        ]
+      },
+      "properties": {
+        "Name": "Balangaw",
+        "Glottocode": "bala1310",
+        "Glottolog_Name": "Balangao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.075,
+          -8.35714
+        ]
+      },
+      "properties": {
+        "Name": "Bali",
+        "Glottocode": "bali1278",
+        "Glottolog_Name": "Balinese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.171,
+          -1.58305
+        ]
+      },
+      "properties": {
+        "Name": "BanggaiW_D",
+        "Glottocode": "bang1368",
+        "Glottolog_Name": "Banggai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.747105
+        ]
+      },
+      "properties": {
+        "Name": "BanjareseMalay",
+        "Glottocode": "banj1239",
+        "Glottolog_Name": "Banjar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.128,
+          -6.23061
+        ]
+      },
+      "properties": {
+        "Name": "Banoni",
+        "Glottocode": "bann1247",
+        "Glottolog_Name": "Bannoni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.846,
+          1.44586
+        ]
+      },
+      "properties": {
+        "Name": "Bantik",
+        "Glottocode": "bant1286",
+        "Glottolog_Name": "Bantik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.268,
+          -1.62663
+        ]
+      },
+      "properties": {
+        "Name": "Baree",
+        "Glottocode": "pamo1252",
+        "Glottolog_Name": "Pamona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.857,
+          25.0046
+        ]
+      },
+      "properties": {
+        "Name": "Basai",
+        "Glottocode": "basa1287",
+        "Glottolog_Name": "Basay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.933,
+          4.96207
+        ]
+      },
+      "properties": {
+        "Name": "Belait",
+        "Glottocode": "bela1260",
+        "Glottolog_Name": "Lemeting"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.528,
+          3.9815
+        ]
+      },
+      "properties": {
+        "Name": "BerawanLongTerawan",
+        "Glottocode": "west2564",
+        "Glottolog_Name": "West Berawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.075,
+          -1.8801
+        ]
+      },
+      "properties": {
+        "Name": "BigaMisool",
+        "Glottocode": "matb1237",
+        "Glottolog_Name": "Matbat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.403,
+          13.7574
+        ]
+      },
+      "properties": {
+        "Name": "BikolNagaCity",
+        "Glottocode": "cent2087",
+        "Glottolog_Name": "Coastal-Naga Bikol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.764,
+          -5.26505
+        ]
+      },
+      "properties": {
+        "Name": "Bilibil",
+        "Glottocode": "bilb1241",
+        "Glottolog_Name": "Bilibil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.445,
+          -8.57376
+        ]
+      },
+      "properties": {
+        "Name": "Bima",
+        "Glottocode": "bima1247",
+        "Glottolog_Name": "Bima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.634,
+          3.867
+        ]
+      },
+      "properties": {
+        "Name": "Bintulu",
+        "Glottocode": "bint1246",
+        "Glottolog_Name": "Bintulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.892,
+          8.15933
+        ]
+      },
+      "properties": {
+        "Name": "Binukid",
+        "Glottocode": "binu1244",
+        "Glottolog_Name": "Talaandig-Binukid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.179,
+          -3.43514
+        ]
+      },
+      "properties": {
+        "Name": "Bobot",
+        "Glottocode": "bobo1254",
+        "Glottolog_Name": "Bobot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.114,
+          0.64616
+        ]
+      },
+      "properties": {
+        "Name": "BolaangMongondow",
+        "Glottocode": "mong1342",
+        "Glottolog_Name": "Mongondow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.792,
+          -7.37657
+        ]
+      },
+      "properties": {
+        "Name": "Bonerate",
+        "Glottocode": "bone1254",
+        "Glottolog_Name": "Bonerate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.601,
+          -3.29547
+        ]
+      },
+      "properties": {
+        "Name": "Bonfia",
+        "Glottocode": "masi1266",
+        "Glottolog_Name": "Masiwang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.977,
+          -4.47
+        ]
+      },
+      "properties": {
+        "Name": "BugineseSoppeng_D",
+        "Glottocode": "bugi1244",
+        "Glottolog_Name": "Buginese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.802,
+          -8.47948
+        ]
+      },
+      "properties": {
+        "Name": "Bugotu",
+        "Glottocode": "bugh1239",
+        "Glottolog_Name": "Bughotu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.246,
+          1.29075
+        ]
+      },
+      "properties": {
+        "Name": "Bukat",
+        "Glottocode": "buka1261",
+        "Glottolog_Name": "Bukat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.443,
+          1.0008
+        ]
+      },
+      "properties": {
+        "Name": "Buli",
+        "Glottocode": "buli1255",
+        "Glottolog_Name": "Buli (Indonesia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.868,
+          -11.6752
+        ]
+      },
+      "properties": {
+        "Name": "Buma",
+        "Glottocode": "tean1237",
+        "Glottolog_Name": "Teanu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.025,
+          23.4116
+        ]
+      },
+      "properties": {
+        "Name": "Bunun",
+        "Glottocode": "bunu1267",
+        "xd_ids": [
+          "xd733"
+        ],
+        "Glottolog_Name": "Bunun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.632,
+          -3.43957
+        ]
+      },
+      "properties": {
+        "Name": "BuruNamroleBay",
+        "Glottocode": "buru1303",
+        "Glottolog_Name": "Buru (Indonesia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.030277,
+          23.604572
+        ]
+      },
+      "properties": {
+        "Name": "Buyang",
+        "Glottocode": "emab1235",
+        "Glottolog_Name": "E'ma Buyang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.297,
+          -9.51158
+        ]
+      },
+      "properties": {
+        "Name": "Bwaidoga",
+        "Glottocode": "bwai1242",
+        "xd_ids": [
+          "xd848"
+        ],
+        "Glottolog_Name": "Bwaidoka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.996,
+          -21.7034
+        ]
+      },
+      "properties": {
+        "Name": "Canala",
+        "Glottocode": "xara1244",
+        "Glottolog_Name": "X\u00e2r\u00e2c\u00f9\u00f9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.765,
+          15.205
+        ]
+      },
+      "properties": {
+        "Name": "Carolinian",
+        "Glottocode": "caro1242",
+        "Glottolog_Name": "Carolinian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.367,
+          8.38799
+        ]
+      },
+      "properties": {
+        "Name": "Cebuano",
+        "Glottocode": "cebu1242",
+        "xd_ids": [
+          "xd735"
+        ],
+        "Glottolog_Name": "Cebuano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.348,
+          23.0917
+        ]
+      },
+      "properties": {
+        "Name": "CentralAmis",
+        "Glottocode": "amis1246",
+        "xd_ids": [
+          "xd749"
+        ],
+        "Glottolog_Name": "Amis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.865,
+          -8.15414
+        ]
+      },
+      "properties": {
+        "Name": "CentralMasela",
+        "Glottocode": "cent2072",
+        "Glottolog_Name": "Central Masela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74474,
+          13.438011
+        ]
+      },
+      "properties": {
+        "Name": "Chamorro",
+        "Glottocode": "cham1312",
+        "xd_ids": [
+          "xd839"
+        ],
+        "Glottolog_Name": "Chamorro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.625,
+          -8.27055
+        ]
+      },
+      "properties": {
+        "Name": "ChekeHolo",
+        "Glottocode": "chek1238",
+        "Glottolog_Name": "Cheke Holo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.529,
+          11.6625
+        ]
+      },
+      "properties": {
+        "Name": "Chru",
+        "Glottocode": "chru1239",
+        "Glottolog_Name": "Chru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.598607,
+          7.346993
+        ]
+      },
+      "properties": {
+        "Name": "Chuukese",
+        "Glottocode": "chuu1238",
+        "Glottolog_Name": "Chuukese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.598607,
+          7.346993
+        ]
+      },
+      "properties": {
+        "Name": "ChuukeseAKATrukese",
+        "Glottocode": "chuu1238",
+        "xd_ids": [
+          "xd833"
+        ],
+        "Glottolog_Name": "Chuukese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.388,
+          24.5209
+        ]
+      },
+      "properties": {
+        "Name": "CiuliAtayal",
+        "Glottocode": "atay1247",
+        "xd_ids": [
+          "xd732"
+        ],
+        "Glottolog_Name": "Atayal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.687,
+          -7.55894
+        ]
+      },
+      "properties": {
+        "Name": "Dai",
+        "Glottocode": "daii1240",
+        "Glottolog_Name": "Dai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.06,
+          -7.76324
+        ]
+      },
+      "properties": {
+        "Name": "DaweraDaweloor",
+        "Glottocode": "dawe1237",
+        "Glottolog_Name": "Dawera-Daweloor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.576,
+          1.3307
+        ]
+      },
+      "properties": {
+        "Name": "DayakBakatiqSaraRiok",
+        "Glottocode": "beka1241",
+        "Glottolog_Name": "Riuk Bekati'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794,
+          -1.58463
+        ]
+      },
+      "properties": {
+        "Name": "DayakNgaju",
+        "Glottocode": "ngaj1237",
+        "Glottolog_Name": "Ngaju"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.229,
+          -20.8892
+        ]
+      },
+      "properties": {
+        "Name": "Dehu",
+        "Glottocode": "dehu1237",
+        "xd_ids": [
+          "xd873"
+        ],
+        "Glottolog_Name": "Dehu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.168,
+          -9.38654
+        ]
+      },
+      "properties": {
+        "Name": "Diodio",
+        "Glottocode": "diod1237",
+        "Glottolog_Name": "Diodio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.825,
+          -9.63239
+        ]
+      },
+      "properties": {
+        "Name": "Dobuan",
+        "Glottocode": "dobu1241",
+        "xd_ids": [
+          "xd857"
+        ],
+        "Glottolog_Name": "Dobu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.878,
+          16.2176
+        ]
+      },
+      "properties": {
+        "Name": "DumagatCasiguran",
+        "Glottocode": "casi1235",
+        "xd_ids": [
+          "xd906"
+        ],
+        "Glottolog_Name": "Casiguran-Nagtipunan Agta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.235,
+          -9.88447
+        ]
+      },
+      "properties": {
+        "Name": "ESKamberaSouthern_D",
+        "Glottocode": "kamb1299",
+        "Glottolog_Name": "Kambera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.235,
+          -9.88447
+        ]
+      },
+      "properties": {
+        "Name": "ESLewa_D",
+        "Glottocode": "kamb1299",
+        "Glottolog_Name": "Kambera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.235,
+          -9.88447
+        ]
+      },
+      "properties": {
+        "Name": "ESUmbuRatuNggai_D",
+        "Glottocode": "kamb1299",
+        "xd_ids": [
+          "xd771"
+        ],
+        "Glottolog_Name": "Kambera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.873,
+          -8.13455
+        ]
+      },
+      "properties": {
+        "Name": "EastMasela",
+        "Glottocode": "east2462",
+        "Glottolog_Name": "East Masela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.399,
+          -17.052
+        ]
+      },
+      "properties": {
+        "Name": "Emae",
+        "Glottocode": "emae1237",
+        "Glottolog_Name": "Emae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.721,
+          -8.03209
+        ]
+      },
+      "properties": {
+        "Name": "Emplawas",
+        "Glottocode": "empl1237",
+        "Glottolog_Name": "Emplawas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.585,
+          24.0017
+        ]
+      },
+      "properties": {
+        "Name": "Favorlang",
+        "Glottocode": "babu1240",
+        "Glottolog_Name": "Babuza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.215,
+          -19.5303
+        ]
+      },
+      "properties": {
+        "Name": "Futuna",
+        "Glottocode": "futu1245",
+        "xd_ids": [
+          "xd887"
+        ],
+        "Glottolog_Name": "Futuna-Aniwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.137222,
+          -14.278717
+        ]
+      },
+      "properties": {
+        "Name": "FutunaEast",
+        "Glottocode": "east2447",
+        "Glottolog_Name": "East Futuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.215,
+          -19.5303
+        ]
+      },
+      "properties": {
+        "Name": "FutunaWest",
+        "Glottocode": "futu1245",
+        "Glottolog_Name": "Futuna-Aniwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.177,
+          16.5468
+        ]
+      },
+      "properties": {
+        "Name": "Gaddang",
+        "Glottocode": "gadd1244",
+        "Glottolog_Name": "Gaddang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.854,
+          -9.73317
+        ]
+      },
+      "properties": {
+        "Name": "Gapapaiwa",
+        "Glottocode": "gapa1238",
+        "Glottolog_Name": "Gapapaiwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.114,
+          -9.6373
+        ]
+      },
+      "properties": {
+        "Name": "GauraNggaura",
+        "Glottocode": "kodi1247",
+        "Glottolog_Name": "Kodi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3456,
+          4.3733
+        ]
+      },
+      "properties": {
+        "Name": "Gayo",
+        "Glottocode": "gayo1244",
+        "Glottolog_Name": "Gayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.781,
+          -5.18175
+        ]
+      },
+      "properties": {
+        "Name": "Gedaged",
+        "Glottocode": "geda1237",
+        "Glottolog_Name": "Gedaged"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.701,
+          -3.8016
+        ]
+      },
+      "properties": {
+        "Name": "Geser",
+        "Glottocode": "gese1240",
+        "Glottolog_Name": "Geser-Gorom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.917,
+          -9.4791
+        ]
+      },
+      "properties": {
+        "Name": "GhariGuadalcanal",
+        "Glottocode": "ghar1239",
+        "Glottolog_Name": "Ghari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.976,
+          -0.42618
+        ]
+      },
+      "properties": {
+        "Name": "Giman",
+        "Glottocode": "gane1237",
+        "Glottolog_Name": "Gane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.288,
+          0.62689
+        ]
+      },
+      "properties": {
+        "Name": "GorontaloHulondalo",
+        "Glottocode": "goro1259",
+        "Glottolog_Name": "Gorontalo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.336,
+          18.3192
+        ]
+      },
+      "properties": {
+        "Name": "HainanCham",
+        "Glottocode": "tsat1238",
+        "Glottolog_Name": "Tsat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.221,
+          12.4159
+        ]
+      },
+      "properties": {
+        "Name": "Hanunoo",
+        "Glottocode": "hanu1241",
+        "xd_ids": [
+          "xd745"
+        ],
+        "Glottolog_Name": "Hanunoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.43,
+          19.6297
+        ]
+      },
+      "properties": {
+        "Name": "Hawaiian",
+        "Glottocode": "hawa1245",
+        "xd_ids": [
+          "xd895"
+        ],
+        "Glottolog_Name": "Hawaiian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.186,
+          -3.57478
+        ]
+      },
+      "properties": {
+        "Name": "HituAmbon",
+        "Glottocode": "hitu1239",
+        "xd_ids": [
+          "xd761"
+        ],
+        "Glottolog_Name": "Hitu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.595,
+          -8.19679
+        ]
+      },
+      "properties": {
+        "Name": "HoavaNewGeorgia",
+        "Glottocode": "hoav1238",
+        "Glottolog_Name": "Hoava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.59,
+          -20.6301
+        ]
+      },
+      "properties": {
+        "Name": "Iaai",
+        "Glottocode": "iaai1238",
+        "Glottolog_Name": "Iaai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.934,
+          2.09041
+        ]
+      },
+      "properties": {
+        "Name": "Iban",
+        "Glottocode": "iban1264",
+        "xd_ids": [
+          "xd750"
+        ],
+        "Glottolog_Name": "Iban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.891,
+          17.4201
+        ]
+      },
+      "properties": {
+        "Name": "Ibanag",
+        "Glottocode": "iban1267",
+        "Glottolog_Name": "Ibanag"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.515,
+          5.29059
+        ]
+      },
+      "properties": {
+        "Name": "Idaan",
+        "Glottocode": "idaa1241",
+        "Glottolog_Name": "Ida'an"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.275,
+          -17.6841
+        ]
+      },
+      "properties": {
+        "Name": "IfiraMeleMeleFila",
+        "Glottocode": "mele1250",
+        "Glottolog_Name": "Mele-Fila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.042,
+          16.9016
+        ]
+      },
+      "properties": {
+        "Name": "IfugaoAmganad",
+        "Glottocode": "amga1235",
+        "Glottolog_Name": "Amganad Ifugao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.23,
+          16.8266
+        ]
+      },
+      "properties": {
+        "Name": "IfugaoBatad",
+        "Glottocode": "bata1298",
+        "xd_ids": [
+          "xd743"
+        ],
+        "Glottolog_Name": "Batad Ifugao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035,
+          16.7099
+        ]
+      },
+      "properties": {
+        "Name": "IfugaoBayninan",
+        "Glottocode": "kele1259",
+        "Glottolog_Name": "Keley-i Kallahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.902,
+          -7.84385
+        ]
+      },
+      "properties": {
+        "Name": "Iliun",
+        "Glottocode": "iliu1237",
+        "Glottolog_Name": "Ili'uun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.993,
+          15.9361
+        ]
+      },
+      "properties": {
+        "Name": "Ilokano",
+        "Glottocode": "ilok1237",
+        "Glottolog_Name": "Iloko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Imorod",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.651,
+          -7.96772
+        ]
+      },
+      "properties": {
+        "Name": "Imroing",
+        "Glottocode": "imro1237",
+        "Glottolog_Name": "Imroing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.166,
+          12.4264
+        ]
+      },
+      "properties": {
+        "Name": "Inabaknon",
+        "Glottocode": "inab1237",
+        "Glottolog_Name": "Inabaknon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.716,
+          -7.33458
+        ]
+      },
+      "properties": {
+        "Name": "Indonesian",
+        "Glottocode": "indo1316",
+        "Glottolog_Name": "Standard Indonesian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.695,
+          16.4263
+        ]
+      },
+      "properties": {
+        "Name": "Inibaloi",
+        "Glottocode": "ibal1244",
+        "Glottolog_Name": "Ibaloi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Iraralay",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Isamorong",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16,
+          18.2139
+        ]
+      },
+      "properties": {
+        "Name": "IsnegDibagatKabugaoIsneg",
+        "Glottocode": "isna1241",
+        "Glottolog_Name": "Isnag"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Itbayat",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Itbayaten",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.876,
+          17.5972
+        ]
+      },
+      "properties": {
+        "Name": "ItnegBinongan",
+        "Glottocode": "bino1237",
+        "Glottolog_Name": "Binongan Itneg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      },
+      "properties": {
+        "Name": "Ivasay",
+        "Glottocode": "ivat1242",
+        "Glottolog_Name": "Itbayat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.287,
+          -7.001
+        ]
+      },
+      "properties": {
+        "Name": "Javanese",
+        "Glottocode": "java1254",
+        "xd_ids": [
+          "xd751"
+        ],
+        "Glottolog_Name": "Javanese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.676,
+          -20.6648
+        ]
+      },
+      "properties": {
+        "Name": "Jawe",
+        "Glottocode": "jawe1237",
+        "Glottolog_Name": "Jawe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.217,
+          0.85641
+        ]
+      },
+      "properties": {
+        "Name": "Kaidipang",
+        "Glottocode": "kaid1239",
+        "Glottolog_Name": "Kaidipang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.558,
+          -3.34608
+        ]
+      },
+      "properties": {
+        "Name": "Kairiru",
+        "Glottocode": "kair1263",
+        "Glottolog_Name": "Kairiru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547,
+          16.3785
+        ]
+      },
+      "properties": {
+        "Name": "KakidugenIlongot",
+        "Glottocode": "ilon1239",
+        "Glottolog_Name": "Ilongot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.328,
+          6.8126
+        ]
+      },
+      "properties": {
+        "Name": "Kalagan",
+        "Glottocode": "kala1388",
+        "Glottolog_Name": "Kalagan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0365,
+          17.3879
+        ]
+      },
+      "properties": {
+        "Name": "KalingaGuinaangLubuagan_D",
+        "Glottocode": "lubu1243",
+        "xd_ids": [
+          "xd739"
+        ],
+        "Glottolog_Name": "Lubuagan Kalinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9,
+          16.321
+        ]
+      },
+      "properties": {
+        "Name": "KallahanKayapaProper",
+        "Glottocode": "kaya1320",
+        "Glottolog_Name": "Kayapa Kallahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035,
+          16.7099
+        ]
+      },
+      "properties": {
+        "Name": "KallahanKeleyqiq",
+        "Glottocode": "kele1259",
+        "Glottolog_Name": "Keley-i Kallahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.235,
+          -9.88447
+        ]
+      },
+      "properties": {
+        "Name": "Kambera",
+        "Glottocode": "kamb1299",
+        "Glottolog_Name": "Kambera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.887,
+          23.3235
+        ]
+      },
+      "properties": {
+        "Name": "Kanakanabu",
+        "Glottocode": "kana1286",
+        "Glottolog_Name": "Kanakanavu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.786,
+          17.1057
+        ]
+      },
+      "properties": {
+        "Name": "KankanayNorthern",
+        "Glottocode": "nort2877",
+        "xd_ids": [
+          "xd742"
+        ],
+        "Glottolog_Name": "Northern Kankanay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.502,
+          14.9603
+        ]
+      },
+      "properties": {
+        "Name": "Kapampangan",
+        "Glottocode": "pamp1243",
+        "Glottolog_Name": "Pampanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.797223,
+          1.039166
+        ]
+      },
+      "properties": {
+        "Name": "Kapingamarangi",
+        "Glottocode": "kapi1249",
+        "xd_ids": [
+          "xd886"
+        ],
+        "Glottolog_Name": "Kapingamarangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.111,
+          -2.81957
+        ]
+      },
+      "properties": {
+        "Name": "KaraWest",
+        "Glottocode": "kara1486",
+        "Glottolog_Name": "Kara (Papua New Guinea)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.586,
+          -2.94438
+        ]
+      },
+      "properties": {
+        "Name": "KasiraIrahutu",
+        "Glottocode": "irar1238",
+        "Glottolog_Name": "Irarutu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794,
+          -1.58463
+        ]
+      },
+      "properties": {
+        "Name": "Katingan",
+        "Glottocode": "ngaj1237",
+        "Glottolog_Name": "Ngaju"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.645,
+          24.6947
+        ]
+      },
+      "properties": {
+        "Name": "Kavalan",
+        "Glottocode": "kava1241",
+        "Glottolog_Name": "Kavalan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169,
+          2.71903
+        ]
+      },
+      "properties": {
+        "Name": "KayanUmaJuman",
+        "Glottocode": "reja1241",
+        "Glottolog_Name": "Rejang Kayan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.77,
+          -8.23039
+        ]
+      },
+      "properties": {
+        "Name": "Kedang",
+        "Glottocode": "keda1252",
+        "Glottolog_Name": "Kedang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.02,
+          -5.63948
+        ]
+      },
+      "properties": {
+        "Name": "KeiTanimbarKei",
+        "Glottocode": "keii1239",
+        "Glottolog_Name": "Kei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.428,
+          3.31783
+        ]
+      },
+      "properties": {
+        "Name": "KelabitBario",
+        "Glottocode": "kela1258",
+        "Glottolog_Name": "Kelabit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.159,
+          -9.00299
+        ]
+      },
+      "properties": {
+        "Name": "Kemak",
+        "Glottocode": "kema1243",
+        "Glottolog_Name": "Kemak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47431,
+          3.42975
+        ]
+      },
+      "properties": {
+        "Name": "KenyahLongAnap",
+        "Glottocode": "main1275",
+        "Glottolog_Name": "Usun Apau Kenyah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.403,
+          -1.93668
+        ]
+      },
+      "properties": {
+        "Name": "Kerinci",
+        "Glottocode": "keri1250",
+        "Glottolog_Name": "Kerinci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.753,
+          -7.74311
+        ]
+      },
+      "properties": {
+        "Name": "KiaZabana",
+        "Glottocode": "zaba1237",
+        "Glottolog_Name": "Zabana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.072,
+          -8.72574
+        ]
+      },
+      "properties": {
+        "Name": "Kilivila",
+        "Glottocode": "kili1267",
+        "xd_ids": [
+          "xd852"
+        ],
+        "Glottolog_Name": "Kilivila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.255,
+          -8.18719
+        ]
+      },
+      "properties": {
+        "Name": "KilokakaYsabel",
+        "Glottocode": "zaza1245",
+        "Glottolog_Name": "Zazao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.64,
+          0.179
+        ]
+      },
+      "properties": {
+        "Name": "Kiribati",
+        "Glottocode": "gilb1244",
+        "xd_ids": [
+          "xd829",
+          "xd838"
+        ],
+        "Glottolog_Name": "Gilbertese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.18,
+          -8.05122
+        ]
+      },
+      "properties": {
+        "Name": "Kisar",
+        "Glottocode": "kisa1266",
+        "Glottolog_Name": "Kisar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.114,
+          -9.6373
+        ]
+      },
+      "properties": {
+        "Name": "Kodi",
+        "Glottocode": "kodi1247",
+        "xd_ids": [
+          "xd763"
+        ],
+        "Glottolog_Name": "Kodi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.468,
+          -4.21954
+        ]
+      },
+      "properties": {
+        "Name": "KoiwaiIrianJaya",
+        "Glottocode": "kowi1239",
+        "Glottolog_Name": "Kowiai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.191,
+          -8.16481
+        ]
+      },
+      "properties": {
+        "Name": "Kokota",
+        "Glottocode": "koko1269",
+        "Glottolog_Name": "Kokota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.107,
+          -3.79215
+        ]
+      },
+      "properties": {
+        "Name": "Komering",
+        "Glottocode": "kome1238",
+        "Glottolog_Name": "Komering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.007,
+          6.20529
+        ]
+      },
+      "properties": {
+        "Name": "KoronadalBlaan",
+        "Glottocode": "koro1310",
+        "xd_ids": [
+          "xd740"
+        ],
+        "Glottolog_Name": "Koronadal Blaan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.63,
+          -5.58623
+        ]
+      },
+      "properties": {
+        "Name": "Kove",
+        "Glottocode": "kove1237",
+        "Glottolog_Name": "Kove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.114,
+          -4.30986
+        ]
+      },
+      "properties": {
+        "Name": "Kuanua",
+        "Glottocode": "kuan1248",
+        "Glottolog_Name": "Kuanua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.98,
+          5.31
+        ]
+      },
+      "properties": {
+        "Name": "Kusaie",
+        "Glottocode": "kosr1238",
+        "xd_ids": [
+          "xd826"
+        ],
+        "Glottolog_Name": "Kosraean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.965,
+          -8.93744
+        ]
+      },
+      "properties": {
+        "Name": "Kwaio",
+        "Glottocode": "kwai1243",
+        "xd_ids": [
+          "xd850"
+        ],
+        "Glottolog_Name": "Kwaio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.442,
+          -19.5954
+        ]
+      },
+      "properties": {
+        "Name": "Kwamera",
+        "Glottocode": "kwam1252",
+        "Glottolog_Name": "Kwamera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.804,
+          -8.75779
+        ]
+      },
+      "properties": {
+        "Name": "KwaraaeSolomonIslands",
+        "Glottocode": "kwar1239",
+        "Glottolog_Name": "Kwara'ae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.947,
+          2.72734
+        ]
+      },
+      "properties": {
+        "Name": "Lahanan",
+        "Glottocode": "laha1253",
+        "Glottolog_Name": "Lahanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.888,
+          -5.59931
+        ]
+      },
+      "properties": {
+        "Name": "Lakalai",
+        "Glottocode": "naka1262",
+        "xd_ids": [
+          "xd859"
+        ],
+        "Glottolog_Name": "Nakanai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.803,
+          -8.36439
+        ]
+      },
+      "properties": {
+        "Name": "Lamaholot",
+        "Glottocode": "lama1277",
+        "xd_ids": [
+          "xd769"
+        ],
+        "Glottolog_Name": "Lamaholot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.344,
+          -9.70434
+        ]
+      },
+      "properties": {
+        "Name": "LamboyaLaboya",
+        "Glottocode": "lamb1273",
+        "Glottolog_Name": "Lamboya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.037,
+          -5.73463
+        ]
+      },
+      "properties": {
+        "Name": "Lampung",
+        "Glottocode": "lamp1243",
+        "Glottolog_Name": "Lampung Api"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.872,
+          -8.51018
+        ]
+      },
+      "properties": {
+        "Name": "Lau",
+        "Glottocode": "lauu1247",
+        "Glottolog_Name": "Lau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.226,
+          -1.9665
+        ]
+      },
+      "properties": {
+        "Name": "Leipon",
+        "Glottocode": "leip1237",
+        "Glottolog_Name": "Leipon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.261,
+          -19.4763
+        ]
+      },
+      "properties": {
+        "Name": "Lenakel",
+        "Glottocode": "lena1238",
+        "Glottolog_Name": "Lenakel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.674,
+          -8.19808
+        ]
+      },
+      "properties": {
+        "Name": "Letinese",
+        "Glottocode": "leti1246",
+        "Glottolog_Name": "Leti (Indonesia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.746,
+          -2.06626
+        ]
+      },
+      "properties": {
+        "Name": "Levei",
+        "Glottocode": "kheh1237",
+        "Glottolog_Name": "Khehek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.695,
+          -2.16157
+        ]
+      },
+      "properties": {
+        "Name": "Likum",
+        "Glottocode": "liku1243",
+        "Glottolog_Name": "Likum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.832,
+          -8.68615
+        ]
+      },
+      "properties": {
+        "Name": "LioFloresTongah",
+        "Glottocode": "lioo1240",
+        "Glottolog_Name": "Li'o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.35,
+          -2.06124
+        ]
+      },
+      "properties": {
+        "Name": "Loniu",
+        "Glottocode": "loni1238",
+        "Glottolog_Name": "Loniu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.346,
+          -2.38659
+        ]
+      },
+      "properties": {
+        "Name": "Lou",
+        "Glottocode": "louu1245",
+        "Glottolog_Name": "Lou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.944,
+          -8.18378
+        ]
+      },
+      "properties": {
+        "Name": "Luang",
+        "Glottocode": "luan1263",
+        "Glottolog_Name": "Luang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.701,
+          -5.49029
+        ]
+      },
+      "properties": {
+        "Name": "Luangiua",
+        "Glottocode": "onto1237",
+        "xd_ids": [
+          "xd884"
+        ],
+        "Glottolog_Name": "Luangiua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.005,
+          -4.31803
+        ]
+      },
+      "properties": {
+        "Name": "LungaLungaMinigir",
+        "Glottocode": "mini1251",
+        "Glottolog_Name": "Minigir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.835,
+          -10.6771
+        ]
+      },
+      "properties": {
+        "Name": "LwepeSantaCruz",
+        "Glottocode": "natu1246",
+        "Glottolog_Name": "Nat\u00fcgu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.092,
+          -2.1239
+        ]
+      },
+      "properties": {
+        "Name": "Maanyan",
+        "Glottocode": "maan1238",
+        "Glottolog_Name": "Ma'anyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.956,
+          -2.7828
+        ]
+      },
+      "properties": {
+        "Name": "Madara",
+        "Glottocode": "mand1440",
+        "Glottolog_Name": "Mandara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0,
+          -7.0
+        ]
+      },
+      "properties": {
+        "Name": "Madurese",
+        "Glottocode": "nucl1460",
+        "Glottolog_Name": "Madurese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26,
+          -10.2321
+        ]
+      },
+      "properties": {
+        "Name": "MagoriSouthEastPapua",
+        "Glottocode": "mago1248",
+        "Glottolog_Name": "Magori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.838,
+          -5.65551
+        ]
+      },
+      "properties": {
+        "Name": "Makassar",
+        "Glottocode": "maka1311",
+        "xd_ids": [
+          "xd759"
+        ],
+        "Glottolog_Name": "Makasar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.716,
+          -7.33458
+        ]
+      },
+      "properties": {
+        "Name": "MalayBahasaIndonesia",
+        "Glottocode": "indo1316",
+        "Glottolog_Name": "Standard Indonesian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.445,
+          -5.61613
+        ]
+      },
+      "properties": {
+        "Name": "Maleu",
+        "Glottocode": "male1289",
+        "Glottolog_Name": "Maleu-Kilenge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63,
+          1.3156
+        ]
+      },
+      "properties": {
+        "Name": "Maloh",
+        "Glottocode": "emba1238",
+        "Glottolog_Name": "Embaloh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.548,
+          9.44744
+        ]
+      },
+      "properties": {
+        "Name": "Mamanwa",
+        "Glottocode": "mama1275",
+        "Glottolog_Name": "Minamanwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.475,
+          -9.19552
+        ]
+      },
+      "properties": {
+        "Name": "Mambai",
+        "Glottocode": "mamb1306",
+        "Glottolog_Name": "Mambae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.55,
+          -9.42302
+        ]
+      },
+      "properties": {
+        "Name": "Mamboru",
+        "Glottocode": "mamb1305",
+        "Glottolog_Name": "Mamboru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.033,
+          -4.07921
+        ]
+      },
+      "properties": {
+        "Name": "Manam",
+        "Glottocode": "mana1295",
+        "xd_ids": [
+          "xd806"
+        ],
+        "Glottolog_Name": "Manam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.97,
+          -23.1095
+        ]
+      },
+      "properties": {
+        "Name": "Mangareva",
+        "Glottocode": "mang1401",
+        "xd_ids": [
+          "xd896"
+        ],
+        "Glottolog_Name": "Mangareva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.329,
+          -8.55748
+        ]
+      },
+      "properties": {
+        "Name": "Manggarai",
+        "Glottocode": "mang1405",
+        "Glottolog_Name": "Manggarai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.499,
+          7.7789
+        ]
+      },
+      "properties": {
+        "Name": "ManoboAtadownriver",
+        "Glottocode": "atam1240",
+        "Glottolog_Name": "Ata Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.499,
+          7.7789
+        ]
+      },
+      "properties": {
+        "Name": "ManoboAtaupriver",
+        "Glottocode": "atam1240",
+        "Glottolog_Name": "Ata Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.018,
+          7.85664
+        ]
+      },
+      "properties": {
+        "Name": "ManoboDibabawon",
+        "Glottocode": "diba1242",
+        "Glottolog_Name": "Dibabawon Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.766,
+          7.34448
+        ]
+      },
+      "properties": {
+        "Name": "ManoboIlianenKibudtungan_D",
+        "Glottocode": "ilia1236",
+        "Glottolog_Name": "Ilianen Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.234,
+          6.39417
+        ]
+      },
+      "properties": {
+        "Name": "ManoboKalamansigCotabatoParil_D",
+        "Glottocode": "cota1241",
+        "Glottolog_Name": "Cotabato Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.499,
+          5.84903
+        ]
+      },
+      "properties": {
+        "Name": "ManoboSaranganiKayaponga_D",
+        "Glottocode": "sara1327",
+        "Glottolog_Name": "Sarangani Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.16,
+          7.72124
+        ]
+      },
+      "properties": {
+        "Name": "ManoboTigwaIglogsad_D",
+        "Glottocode": "mati1250",
+        "Glottolog_Name": "Matigsalug Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.181,
+          6.79221
+        ]
+      },
+      "properties": {
+        "Name": "Mansaka",
+        "Glottocode": "mans1262",
+        "Glottolog_Name": "Mansaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.541,
+          -38.2881
+        ]
+      },
+      "properties": {
+        "Name": "Maori",
+        "Glottocode": "maor1246",
+        "xd_ids": [
+          "xd891"
+        ],
+        "Glottolog_Name": "Maori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75,
+          6.09061
+        ]
+      },
+      "properties": {
+        "Name": "Mapun",
+        "Glottocode": "mapu1244",
+        "Glottolog_Name": "Mapun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.175,
+          7.79414
+        ]
+      },
+      "properties": {
+        "Name": "Maranao",
+        "Glottocode": "mara1404",
+        "Glottolog_Name": "Maranao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.747,
+          -8.37943
+        ]
+      },
+      "properties": {
+        "Name": "MarovoNewGeorgia",
+        "Glottocode": "maro1244",
+        "Glottolog_Name": "Marovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.108,
+          -8.89412
+        ]
+      },
+      "properties": {
+        "Name": "Marquesan",
+        "Glottocode": "nort2845",
+        "xd_ids": [
+          "xd892"
+        ],
+        "Glottolog_Name": "North Marquesan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.73,
+          8.72
+        ]
+      },
+      "properties": {
+        "Name": "Marshallese",
+        "Glottocode": "mars1254",
+        "xd_ids": [
+          "xd827"
+        ],
+        "Glottolog_Name": "Marshallese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.601,
+          -3.29547
+        ]
+      },
+      "properties": {
+        "Name": "Masiwang",
+        "Glottocode": "masi1266",
+        "Glottolog_Name": "Masiwang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.779,
+          -4.9078
+        ]
+      },
+      "properties": {
+        "Name": "Matukar",
+        "Glottocode": "matu1261",
+        "Glottolog_Name": "Matukar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.888,
+          -5.59931
+        ]
+      },
+      "properties": {
+        "Name": "Maututu",
+        "Glottocode": "naka1262",
+        "Glottolog_Name": "Nakanai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.975,
+          -4.69057
+        ]
+      },
+      "properties": {
+        "Name": "Megiar",
+        "Glottocode": "taki1248",
+        "Glottolog_Name": "Takia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.586,
+          -8.23853
+        ]
+      },
+      "properties": {
+        "Name": "Mekeo",
+        "Glottocode": "meke1243",
+        "xd_ids": [
+          "xd799"
+        ],
+        "Glottolog_Name": "Mekeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.346451,
+          2.524086
+        ]
+      },
+      "properties": {
+        "Name": "MelanauMukah",
+        "Glottocode": "cent2101",
+        "Glottolog_Name": "Central Melanau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.699,
+          3.08896
+        ]
+      },
+      "properties": {
+        "Name": "Melayu",
+        "Glottocode": "stan1306",
+        "xd_ids": [
+          "xd730"
+        ],
+        "Glottolog_Name": "Standard Malay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.184,
+          -3.71342
+        ]
+      },
+      "properties": {
+        "Name": "MelayuAmbon",
+        "Glottocode": "ambo1250",
+        "Glottolog_Name": "Ambonese Malay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.429505,
+          4.456045
+        ]
+      },
+      "properties": {
+        "Name": "MelayuBrunei_D",
+        "Glottocode": "brun1242",
+        "Glottolog_Name": "Brunei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.905,
+          -15.2839
+        ]
+      },
+      "properties": {
+        "Name": "Merei",
+        "Glottocode": "mere1242",
+        "Glottolog_Name": "Merei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44,
+          -0.896
+        ]
+      },
+      "properties": {
+        "Name": "Minangkabau",
+        "Glottocode": "mina1268",
+        "xd_ids": [
+          "xd755"
+        ],
+        "Glottolog_Name": "Minangkabau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.424,
+          -0.07877
+        ]
+      },
+      "properties": {
+        "Name": "MinyaifuinGebe",
+        "Glottocode": "gebe1237",
+        "Glottolog_Name": "Gebe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.573,
+          0.80793
+        ]
+      },
+      "properties": {
+        "Name": "Modang",
+        "Glottocode": "moda1244",
+        "Glottolog_Name": "Modang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6765,
+          10.1474
+        ]
+      },
+      "properties": {
+        "Name": "Moken",
+        "Glottocode": "moke1242",
+        "xd_ids": [
+          "xd728"
+        ],
+        "Glottolog_Name": "Moken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.776,
+          6.65651
+        ]
+      },
+      "properties": {
+        "Name": "Mokilese",
+        "Glottocode": "moki1238",
+        "Glottolog_Name": "Mokilese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.614,
+          -9.57457
+        ]
+      },
+      "properties": {
+        "Name": "Molima",
+        "Glottocode": "moli1248",
+        "xd_ids": [
+          "xd851"
+        ],
+        "Glottolog_Name": "Molima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.95,
+          -2.87055
+        ]
+      },
+      "properties": {
+        "Name": "Mor",
+        "Glottocode": "morm1235",
+        "Glottolog_Name": "Mor (Mor Islands)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37,
+          -2.56016
+        ]
+      },
+      "properties": {
+        "Name": "Mori",
+        "Glottocode": "mori1268",
+        "Glottolog_Name": "Mori Bawah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.710778,
+          5.50735
+        ]
+      },
+      "properties": {
+        "Name": "Mortlockese",
+        "Glottocode": "mort1237",
+        "xd_ids": [
+          "xd825"
+        ],
+        "Glottolog_Name": "Mortlockese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.690924,
+          -13.835361
+        ]
+      },
+      "properties": {
+        "Name": "Mota",
+        "Glottocode": "mota1237",
+        "xd_ids": [
+          "xd862"
+        ],
+        "Glottolog_Name": "Mota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.424,
+          -9.67492
+        ]
+      },
+      "properties": {
+        "Name": "Motu",
+        "Glottocode": "motu1246",
+        "xd_ids": [
+          "xd786"
+        ],
+        "Glottolog_Name": "Motu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.158,
+          -5.71155
+        ]
+      },
+      "properties": {
+        "Name": "Mouk",
+        "Glottocode": "mouk1239",
+        "Glottolog_Name": "Mouk-Aria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.541,
+          -5.40419
+        ]
+      },
+      "properties": {
+        "Name": "MunaKatobuTongkuno_D",
+        "Glottocode": "muna1247",
+        "Glottolog_Name": "Muna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.394,
+          -3.11477
+        ]
+      },
+      "properties": {
+        "Name": "MurnatenAlune",
+        "Glottocode": "alun1238",
+        "Glottolog_Name": "Alune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.624,
+          -1.44105
+        ]
+      },
+      "properties": {
+        "Name": "Mussau",
+        "Glottocode": "muss1246",
+        "Glottolog_Name": "Mussau-Emira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.706277,
+          -13.655015
+        ]
+      },
+      "properties": {
+        "Name": "Mwotlap",
+        "Glottocode": "motl1237",
+        "Glottolog_Name": "Mwotlap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.477,
+          -16.5116
+        ]
+      },
+      "properties": {
+        "Name": "Nahavaq",
+        "Glottocode": "sout2857",
+        "xd_ids": [
+          "xd868"
+        ],
+        "Glottolog_Name": "Nahavaq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.888,
+          -5.59931
+        ]
+      },
+      "properties": {
+        "Name": "NakanaiBileki_D",
+        "Glottocode": "naka1262",
+        "Glottolog_Name": "Nakanai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.332,
+          -2.94411
+        ]
+      },
+      "properties": {
+        "Name": "Nalik",
+        "Glottocode": "nali1244",
+        "Glottolog_Name": "Nalik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.569,
+          -16.8979
+        ]
+      },
+      "properties": {
+        "Name": "Namakir",
+        "Glottocode": "nama1268",
+        "Glottolog_Name": "Namakura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.415,
+          -16.1331
+        ]
+      },
+      "properties": {
+        "Name": "Naman",
+        "Glottocode": "litz1237",
+        "Glottolog_Name": "Naman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.887,
+          -10.7441
+        ]
+      },
+      "properties": {
+        "Name": "Nanggu",
+        "Glottocode": "nang1262",
+        "Glottolog_Name": "Nanggu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.496054,
+          -16.468709
+        ]
+      },
+      "properties": {
+        "Name": "Nati",
+        "Glottocode": "nati1244",
+        "Glottolog_Name": "Nati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.201,
+          -2.21213
+        ]
+      },
+      "properties": {
+        "Name": "Nauna",
+        "Glottocode": "naun1237",
+        "Glottolog_Name": "Nauna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.2,
+          -4.56875
+        ]
+      },
+      "properties": {
+        "Name": "NehanHape",
+        "Glottocode": "neha1247",
+        "Glottolog_Name": "Nehan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.193,
+          -20.4035
+        ]
+      },
+      "properties": {
+        "Name": "Nelemwa",
+        "Glottocode": "kuma1276",
+        "Glottolog_Name": "N\u00eal\u00eamwa-Nixumwak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.498,
+          -11.2958
+        ]
+      },
+      "properties": {
+        "Name": "Nembao",
+        "Glottocode": "amba1266",
+        "Glottolog_Name": "Amba (Solomon Islands)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.964,
+          -21.5305
+        ]
+      },
+      "properties": {
+        "Name": "Nengone",
+        "Glottocode": "neng1238",
+        "Glottolog_Name": "Nengone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.222769,
+          -15.952608
+        ]
+      },
+      "properties": {
+        "Name": "Nese",
+        "Glottocode": "nese1235",
+        "Glottolog_Name": "Nese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.427,
+          -16.2253
+        ]
+      },
+      "properties": {
+        "Name": "Neveei",
+        "Glottocode": "vinm1237",
+        "Glottolog_Name": "Neve'ei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.976,
+          -8.79508
+        ]
+      },
+      "properties": {
+        "Name": "Ngadha",
+        "Glottocode": "ngad1261",
+        "Glottolog_Name": "Ngad'a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.168,
+          -6.62046
+        ]
+      },
+      "properties": {
+        "Name": "NgaiborSAru",
+        "Glottocode": "west2538",
+        "Glottolog_Name": "West Tarangan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.186,
+          -9.04587
+        ]
+      },
+      "properties": {
+        "Name": "Nggela",
+        "Glottocode": "gela1263",
+        "Glottolog_Name": "Gela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.375,
+          -17.5774
+        ]
+      },
+      "properties": {
+        "Name": "Nguna",
+        "Glottocode": "nort2836",
+        "Glottolog_Name": "North Efate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.4961,
+          0.90691
+        ]
+      },
+      "properties": {
+        "Name": "Nias",
+        "Glottocode": "nias1242",
+        "Glottolog_Name": "Nias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.512131,
+          -6.734956
+        ]
+      },
+      "properties": {
+        "Name": "Nila",
+        "Glottocode": "nila1244",
+        "Glottolog_Name": "Nila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.2,
+          -4.56875
+        ]
+      },
+      "properties": {
+        "Name": "Nissan",
+        "Glottocode": "neha1247",
+        "Glottolog_Name": "Nehan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.86,
+          -19.06
+        ]
+      },
+      "properties": {
+        "Name": "Niue",
+        "Glottocode": "niue1239",
+        "xd_ids": [
+          "xd888"
+        ],
+        "Glottolog_Name": "Niuean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.743,
+          -7.84311
+        ]
+      },
+      "properties": {
+        "Name": "NorthBabar",
+        "Glottocode": "nort2860",
+        "Glottolog_Name": "North Babar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.975,
+          3.84
+        ]
+      },
+      "properties": {
+        "Name": "Nukuoro",
+        "Glottocode": "nuku1260",
+        "Glottolog_Name": "Nukuoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.298,
+          -7.52806
+        ]
+      },
+      "properties": {
+        "Name": "NumbamiSiboma",
+        "Glottocode": "numb1247",
+        "Glottolog_Name": "Numbami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.879,
+          -0.9523
+        ]
+      },
+      "properties": {
+        "Name": "Numfor",
+        "Glottocode": "biak1248",
+        "Glottolog_Name": "Biak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.137,
+          -3.79673
+        ]
+      },
+      "properties": {
+        "Name": "Ogan",
+        "Glottocode": "cent2053",
+        "Glottolog_Name": "South Barisan Malay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "Name": "OldChinese",
+        "Glottocode": "oldc1244",
+        "Glottolog_Name": "Old Chinese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.287,
+          -7.001
+        ]
+      },
+      "properties": {
+        "Name": "OldJavanese",
+        "Glottocode": "java1254",
+        "Glottolog_Name": "Javanese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.212109,
+          -16.210501
+        ]
+      },
+      "properties": {
+        "Name": "Orkon",
+        "Glottocode": "orko1234",
+        "Glottolog_Name": "Orkon-Fanbak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.23693,
+          -16.47548
+        ]
+      },
+      "properties": {
+        "Name": "PaameseSouth",
+        "Glottocode": "paam1238",
+        "Glottolog_Name": "Paama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.806,
+          22.3271
+        ]
+      },
+      "properties": {
+        "Name": "Paiwan",
+        "Glottocode": "paiw1248",
+        "xd_ids": [
+          "xd746"
+        ],
+        "Glottolog_Name": "Paiwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.476678,
+          7.34138
+        ]
+      },
+      "properties": {
+        "Name": "Palauan",
+        "Glottocode": "pala1344",
+        "xd_ids": [
+          "xd824"
+        ],
+        "Glottolog_Name": "Palauan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.025,
+          10.1115
+        ]
+      },
+      "properties": {
+        "Name": "PalawanBatak",
+        "Glottocode": "bata1301",
+        "xd_ids": [
+          "xd900"
+        ],
+        "Glottolog_Name": "Batak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.365,
+          15.9377
+        ]
+      },
+      "properties": {
+        "Name": "Pangasinan",
+        "Glottocode": "pang1290",
+        "Glottolog_Name": "Pangasinan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.493,
+          -3.74711
+        ]
+      },
+      "properties": {
+        "Name": "Patpatar",
+        "Glottocode": "patp1243",
+        "Glottolog_Name": "Patpatar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.779,
+          -3.25404
+        ]
+      },
+      "properties": {
+        "Name": "Paulohi",
+        "Glottocode": "paul1238",
+        "Glottolog_Name": "Paulohi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.976,
+          23.7562
+        ]
+      },
+      "properties": {
+        "Name": "Pazeh",
+        "Glottocode": "kulo1237",
+        "Glottolog_Name": "Pazeh-Kahabu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.922908,
+          -9.082238
+        ]
+      },
+      "properties": {
+        "Name": "Penrhyn",
+        "Glottocode": "penr1237",
+        "xd_ids": [
+          "xd890"
+        ],
+        "Glottolog_Name": "M\u0101ngarongaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.576,
+          -7.62349
+        ]
+      },
+      "properties": {
+        "Name": "Perai",
+        "Glottocode": "pera1257",
+        "Glottolog_Name": "Perai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.49,
+          11.2853
+        ]
+      },
+      "properties": {
+        "Name": "PhanRangChamEasternCham",
+        "Glottocode": "east2563",
+        "xd_ids": [
+          "xd718"
+        ],
+        "Glottolog_Name": "Eastern Cham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.223,
+          6.87212
+        ]
+      },
+      "properties": {
+        "Name": "Ponapean",
+        "Glottocode": "pohn1238",
+        "xd_ids": [
+          "xd836"
+        ],
+        "Glottolog_Name": "Pohnpeian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.605,
+          -9.63425
+        ]
+      },
+      "properties": {
+        "Name": "Pondok",
+        "Glottocode": "anak1240",
+        "Glottolog_Name": "Anakalang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.948,
+          -5.7478
+        ]
+      },
+      "properties": {
+        "Name": "Popalia",
+        "Glottocode": "tuka1249",
+        "Glottolog_Name": "Tukang Besi South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.221282,
+          5.328596
+        ]
+      },
+      "properties": {
+        "Name": "PuloAnnan",
+        "Glottocode": "sons1242",
+        "Glottolog_Name": "Sonsorol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2005,
+          7.35695
+        ]
+      },
+      "properties": {
+        "Name": "Puluwatese",
+        "Glottocode": "pulu1242",
+        "Glottolog_Name": "Puluwatese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.954,
+          1.97695
+        ]
+      },
+      "properties": {
+        "Name": "PunanKelai",
+        "Glottocode": "sega1243",
+        "xd_ids": [
+          "xd1442"
+        ],
+        "Glottolog_Name": "Segai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.996,
+          22.643
+        ]
+      },
+      "properties": {
+        "Name": "Puyuma",
+        "Glottocode": "puyu1239",
+        "xd_ids": [
+          "xd734"
+        ],
+        "Glottolog_Name": "Puyuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.167,
+          -15.5432
+        ]
+      },
+      "properties": {
+        "Name": "Raga",
+        "Glottocode": "hano1246",
+        "Glottolog_Name": "Hano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.342,
+          -27.113
+        ]
+      },
+      "properties": {
+        "Name": "RapanuiEasterIsland",
+        "Glottocode": "rapa1244",
+        "xd_ids": [
+          "xd898"
+        ],
+        "Glottolog_Name": "Rapanui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.78,
+          -21.23
+        ]
+      },
+      "properties": {
+        "Name": "Rarotongan",
+        "Glottocode": "raro1241",
+        "xd_ids": [
+          "xd889"
+        ],
+        "Glottolog_Name": "Southern Cook Island Maori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.434,
+          -3.33056
+        ]
+      },
+      "properties": {
+        "Name": "RejangRejang",
+        "Glottocode": "reja1240",
+        "Glottolog_Name": "Rejang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.92,
+          -6.88927
+        ]
+      },
+      "properties": {
+        "Name": "Ririo",
+        "Glottocode": "riri1237",
+        "Glottolog_Name": "Ririo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.169,
+          -10.7326
+        ]
+      },
+      "properties": {
+        "Name": "RotiTermanu_D",
+        "Glottocode": "term1237",
+        "xd_ids": [
+          "xd766"
+        ],
+        "Glottolog_Name": "Termanu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.066,
+          -12.5008
+        ]
+      },
+      "properties": {
+        "Name": "Rotuman",
+        "Glottocode": "rotu1241",
+        "xd_ids": [
+          "xd872"
+        ],
+        "Glottolog_Name": "Rotuman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.408,
+          -8.20493
+        ]
+      },
+      "properties": {
+        "Name": "Roviana",
+        "Glottocode": "rovi1238",
+        "Glottolog_Name": "Roviana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.844,
+          22.7738
+        ]
+      },
+      "properties": {
+        "Name": "Rukai",
+        "Glottocode": "ruka1240",
+        "Glottolog_Name": "Rukai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.467,
+          -9.60258
+        ]
+      },
+      "properties": {
+        "Name": "Saa",
+        "Glottocode": "saaa1240",
+        "xd_ids": [
+          "xd858"
+        ],
+        "Glottolog_Name": "Sa'a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.711,
+          23.2632
+        ]
+      },
+      "properties": {
+        "Name": "Saaroa",
+        "Glottocode": "saar1237",
+        "Glottolog_Name": "Saaroa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.765,
+          15.205
+        ]
+      },
+      "properties": {
+        "Name": "SaipanCarolinian",
+        "Glottocode": "caro1242",
+        "xd_ids": [
+          "xd830"
+        ],
+        "Glottolog_Name": "Carolinian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.067,
+          24.6043
+        ]
+      },
+      "properties": {
+        "Name": "Saisiat",
+        "Glottocode": "sais1237",
+        "Glottolog_Name": "Saisiyat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.051,
+          -15.0757
+        ]
+      },
+      "properties": {
+        "Name": "SakaoPortOlry",
+        "Glottocode": "saka1289",
+        "Glottolog_Name": "Wanohe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.727,
+          -10.6148
+        ]
+      },
+      "properties": {
+        "Name": "Saliba",
+        "Glottocode": "sali1295",
+        "Glottolog_Name": "Saliba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.455978,
+          7.004574
+        ]
+      },
+      "properties": {
+        "Name": "SamalSiasi_D",
+        "Glottocode": "cent2092",
+        "Glottolog_Name": "Central Sama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.164,
+          15.2315
+        ]
+      },
+      "properties": {
+        "Name": "SambalBotolan",
+        "Glottocode": "boto1242",
+        "xd_ids": [
+          "xd904"
+        ],
+        "Glottolog_Name": "Botolan Sambal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.83,
+          -13.92
+        ]
+      },
+      "properties": {
+        "Name": "Samoan",
+        "Glottocode": "samo1305",
+        "xd_ids": [
+          "xd876",
+          "xd880"
+        ],
+        "Glottolog_Name": "Samoan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.378,
+          5.40229
+        ]
+      },
+      "properties": {
+        "Name": "SangilSaraganiIslands",
+        "Glottocode": "sang1337",
+        "Glottolog_Name": "Sangil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.56523,
+          3.50554
+        ]
+      },
+      "properties": {
+        "Name": "Sangir",
+        "Glottocode": "sang1336",
+        "Glottolog_Name": "Sangir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.56523,
+          3.50554
+        ]
+      },
+      "properties": {
+        "Name": "SangirTabukang_D",
+        "Glottocode": "sang1336",
+        "Glottolog_Name": "Sangir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.30467,
+          -10.82553
+        ]
+      },
+      "properties": {
+        "Name": "SantaAna",
+        "Glottocode": "owaa1237",
+        "Glottolog_Name": "Owa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.354,
+          6.03691
+        ]
+      },
+      "properties": {
+        "Name": "SaranganiBlaan",
+        "Glottocode": "sara1326",
+        "Glottolog_Name": "Sarangani Blaan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.284,
+          -8.58349
+        ]
+      },
+      "properties": {
+        "Name": "Sasak",
+        "Glottocode": "sasa1249",
+        "Glottolog_Name": "Sasak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.038,
+          7.36084
+        ]
+      },
+      "properties": {
+        "Name": "Satawalese",
+        "Glottocode": "sata1237",
+        "Glottolog_Name": "Satawalese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.847,
+          -10.5522
+        ]
+      },
+      "properties": {
+        "Name": "Savu",
+        "Glottocode": "sabu1255",
+        "Glottolog_Name": "Hawu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.358,
+          23.9032
+        ]
+      },
+      "properties": {
+        "Name": "Sediq",
+        "Glottocode": "taro1264",
+        "Glottolog_Name": "Seediq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25,
+          -1.2666667
+        ]
+      },
+      "properties": {
+        "Name": "Seimat",
+        "Glottocode": "seim1238",
+        "Glottolog_Name": "Seimat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.469,
+          -2.65849
+        ]
+      },
+      "properties": {
+        "Name": "Sekar",
+        "Glottocode": "seka1247",
+        "Glottolog_Name": "Sekar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.961,
+          -8.18376
+        ]
+      },
+      "properties": {
+        "Name": "Selaru",
+        "Glottocode": "sela1259",
+        "xd_ids": [
+          "xd768"
+        ],
+        "Glottolog_Name": "Selaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.784,
+          -6.16474
+        ]
+      },
+      "properties": {
+        "Name": "Sengseng",
+        "Glottocode": "seng1281",
+        "Glottolog_Name": "Sengseng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.901,
+          -8.11241
+        ]
+      },
+      "properties": {
+        "Name": "Serili",
+        "Glottocode": "seri1255",
+        "Glottolog_Name": "Serili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.017294,
+          -6.31107
+        ]
+      },
+      "properties": {
+        "Name": "Serua",
+        "Glottocode": "seru1245",
+        "Glottolog_Name": "Serua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.892,
+          -4.62059
+        ]
+      },
+      "properties": {
+        "Name": "Siar",
+        "Glottocode": "siar1238",
+        "Glottolog_Name": "Siar-Lak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.38,
+          -8.67302
+        ]
+      },
+      "properties": {
+        "Name": "Sika",
+        "Glottocode": "sika1262",
+        "Glottolog_Name": "Sika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.72522,
+          -8.37701
+        ]
+      },
+      "properties": {
+        "Name": "Sikaiana",
+        "Glottocode": "sika1261",
+        "Glottolog_Name": "Sikaiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.541,
+          -8.26947
+        ]
+      },
+      "properties": {
+        "Name": "Simbo",
+        "Glottocode": "simb1256",
+        "xd_ids": [
+          "xd860"
+        ],
+        "Glottolog_Name": "Simbo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.985,
+          1.54467
+        ]
+      },
+      "properties": {
+        "Name": "Singhi",
+        "Glottocode": "baub1235",
+        "Glottolog_Name": "Bau-Jagoi Bidayuh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.315,
+          22.9777
+        ]
+      },
+      "properties": {
+        "Name": "Siraya",
+        "Glottocode": "sira1267",
+        "Glottolog_Name": "Sirayaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.149,
+          -7.22281
+        ]
+      },
+      "properties": {
+        "Name": "Sisingga",
+        "Glottocode": "baba1268",
+        "Glottolog_Name": "Babatana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04764,
+          -8.6778
+        ]
+      },
+      "properties": {
+        "Name": "Soa",
+        "Glottocode": "cent2074",
+        "Glottolog_Name": "Central Ngada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.869,
+          -1.79516
+        ]
+      },
+      "properties": {
+        "Name": "Soboyo",
+        "Glottocode": "tali1262",
+        "Glottolog_Name": "Taliabu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8,
+          -7.94359
+        ]
+      },
+      "properties": {
+        "Name": "SouthEastBabar",
+        "Glottocode": "sout2883",
+        "Glottolog_Name": "Southeast Babar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.377,
+          -17.7006
+        ]
+      },
+      "properties": {
+        "Name": "SouthEfate",
+        "Glottocode": "sout2856",
+        "Glottolog_Name": "Nafsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.388,
+          24.5209
+        ]
+      },
+      "properties": {
+        "Name": "SquliqAtayal",
+        "Glottocode": "atay1247",
+        "Glottolog_Name": "Atayal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.21,
+          -10.6606
+        ]
+      },
+      "properties": {
+        "Name": "Suau",
+        "Glottocode": "suau1242",
+        "xd_ids": [
+          "xd846"
+        ],
+        "Glottolog_Name": "Suau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.341,
+          7.79964
+        ]
+      },
+      "properties": {
+        "Name": "SubanonSiocon",
+        "Glottocode": "west2557",
+        "Glottolog_Name": "Western Subanon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.018,
+          8.12701
+        ]
+      },
+      "properties": {
+        "Name": "SubanunSindangan",
+        "Glottocode": "cent2089",
+        "xd_ids": [
+          "xd744"
+        ],
+        "Glottolog_Name": "Central Subanen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.106,
+          -6.89708
+        ]
+      },
+      "properties": {
+        "Name": "Sunda",
+        "Glottocode": "sund1252",
+        "Glottolog_Name": "Sundanese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "Name": "Surigaonon",
+        "Glottocode": "suri1273",
+        "Glottolog_Name": "Surigaonon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.166,
+          -18.8181
+        ]
+      },
+      "properties": {
+        "Name": "SyeErromangan",
+        "Glottocode": "siee1239",
+        "xd_ids": [
+          "xd865"
+        ],
+        "Glottolog_Name": "Sie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.956,
+          -2.7828
+        ]
+      },
+      "properties": {
+        "Name": "Tabar",
+        "Glottocode": "mand1440",
+        "Glottolog_Name": "Mandara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.829,
+          -2.97144
+        ]
+      },
+      "properties": {
+        "Name": "TaeSToraja",
+        "Glottocode": "tora1261",
+        "xd_ids": [
+          "xd767"
+        ],
+        "Glottolog_Name": "Toraja-Sa'dan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.747,
+          14.06
+        ]
+      },
+      "properties": {
+        "Name": "Tagalog",
+        "Glottocode": "taga1270",
+        "Glottolog_Name": "Tagalog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.338,
+          10.6519
+        ]
+      },
+      "properties": {
+        "Name": "TagbanwaAborlan_D",
+        "Glottocode": "cent2090",
+        "xd_ids": [
+          "xd747"
+        ],
+        "Glottolog_Name": "Central Tagbanwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.094,
+          12.0716
+        ]
+      },
+      "properties": {
+        "Name": "TagbanwaKalamianCoronIsland_D",
+        "Glottocode": "cala1258",
+        "Glottolog_Name": "Calamian Tagbanwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.45,
+          -17.6485
+        ]
+      },
+      "properties": {
+        "Name": "TahitianModern",
+        "Glottocode": "tahi1242",
+        "xd_ids": [
+          "xd897"
+        ],
+        "Glottolog_Name": "Tahitian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.732,
+          -5.64103
+        ]
+      },
+      "properties": {
+        "Name": "Taiof",
+        "Glottocode": "sapo1253",
+        "Glottolog_Name": "Saposa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.032085,
+          -4.773094
+        ]
+      },
+      "properties": {
+        "Name": "Takuu",
+        "Glottocode": "taku1257",
+        "Glottolog_Name": "Takuu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.959,
+          -8.61074
+        ]
+      },
+      "properties": {
+        "Name": "Talur",
+        "Glottocode": "galo1243",
+        "Glottolog_Name": "Galoli-Talur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.97,
+          -11.68
+        ]
+      },
+      "properties": {
+        "Name": "Tanema",
+        "Glottocode": "tane1237",
+        "Glottolog_Name": "Tanema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.507,
+          -11.2975
+        ]
+      },
+      "properties": {
+        "Name": "Tanimbili",
+        "Glottocode": "tani1255",
+        "Glottolog_Name": "Tanimbili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.35603,
+          -19.57953
+        ]
+      },
+      "properties": {
+        "Name": "TannaSouthwest",
+        "Glottocode": "sout2869",
+        "xd_ids": [
+          "xd863"
+        ],
+        "Glottolog_Name": "Southwest Tanna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.33,
+          -16.0695
+        ]
+      },
+      "properties": {
+        "Name": "Tape",
+        "Glottocode": "mara1399",
+        "Glottolog_Name": "Maragus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.88,
+          5.12236
+        ]
+      },
+      "properties": {
+        "Name": "TausugJolo_D",
+        "Glottocode": "taus1251",
+        "Glottolog_Name": "Tausug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.538,
+          6.20377
+        ]
+      },
+      "properties": {
+        "Name": "TboliTagabili",
+        "Glottocode": "tbol1240",
+        "Glottolog_Name": "Tboli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.868,
+          -11.6752
+        ]
+      },
+      "properties": {
+        "Name": "Teanu",
+        "Glottocode": "tean1237",
+        "Glottolog_Name": "Teanu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.687,
+          -8.01195
+        ]
+      },
+      "properties": {
+        "Name": "TelaMasbuar",
+        "Glottocode": "tela1241",
+        "Glottolog_Name": "Tela-Masbuar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.971,
+          -5.67474
+        ]
+      },
+      "properties": {
+        "Name": "Teop",
+        "Glottocode": "teop1238",
+        "Glottolog_Name": "Teop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.583,
+          -8.58405
+        ]
+      },
+      "properties": {
+        "Name": "Tetum",
+        "Glottocode": "tetu1246",
+        "Glottolog_Name": "Tetun Dili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.143718,
+          -6.97086
+        ]
+      },
+      "properties": {
+        "Name": "Teun",
+        "Glottocode": "teun1241",
+        "Glottolog_Name": "Te'un"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93,
+          23.8333
+        ]
+      },
+      "properties": {
+        "Name": "Thao",
+        "Glottocode": "thao1240",
+        "Glottolog_Name": "Thao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.935,
+          -2.95505
+        ]
+      },
+      "properties": {
+        "Name": "Tiang",
+        "Glottocode": "tian1237",
+        "Glottolog_Name": "Tiang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.893,
+          -2.70951
+        ]
+      },
+      "properties": {
+        "Name": "Tigak",
+        "Glottocode": "tiga1245",
+        "Glottolog_Name": "Tigak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.822,
+          -12.2766
+        ]
+      },
+      "properties": {
+        "Name": "Tikopia",
+        "Glottocode": "tiko1237",
+        "xd_ids": [
+          "xd881"
+        ],
+        "Glottolog_Name": "Tikopia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.826,
+          5.1796
+        ]
+      },
+      "properties": {
+        "Name": "TimugonMurut",
+        "Glottocode": "timu1262",
+        "Glottolog_Name": "Timugon Murut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.619,
+          -8.39233
+        ]
+      },
+      "properties": {
+        "Name": "Toambaita",
+        "Glottocode": "toab1237",
+        "Glottolog_Name": "To'abaita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1761,
+          2.35498
+        ]
+      },
+      "properties": {
+        "Name": "TobaBatak",
+        "Glottocode": "bata1289",
+        "xd_ids": [
+          "xd753"
+        ],
+        "Glottolog_Name": "Batak Toba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.780833,
+          -9.227642
+        ]
+      },
+      "properties": {
+        "Name": "Tokelau",
+        "Glottocode": "toke1240",
+        "xd_ids": [
+          "xd885"
+        ],
+        "Glottolog_Name": "Tokelau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.231,
+          -9.76764
+        ]
+      },
+      "properties": {
+        "Name": "Tolo",
+        "Glottocode": "tali1259",
+        "Glottolog_Name": "Talise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.25,
+          -21.17
+        ]
+      },
+      "properties": {
+        "Name": "Tongan",
+        "Glottocode": "tong1325",
+        "xd_ids": [
+          "xd878"
+        ],
+        "Glottolog_Name": "Tonga (Tonga Islands)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.654,
+          1.24813
+        ]
+      },
+      "properties": {
+        "Name": "Tontemboan",
+        "Glottocode": "tont1239",
+        "Glottolog_Name": "Tontemboan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.787,
+          23.216
+        ]
+      },
+      "properties": {
+        "Name": "Tsou",
+        "Glottocode": "tsou1248",
+        "Glottolog_Name": "Tsou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.321755,
+          -16.17259
+        ]
+      },
+      "properties": {
+        "Name": "Tuamotu",
+        "Glottocode": "tuam1242",
+        "xd_ids": [
+          "xd894"
+        ],
+        "Glottolog_Name": "Tuamotuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7,
+          -7.72555
+        ]
+      },
+      "properties": {
+        "Name": "Tugun",
+        "Glottocode": "tugu1245",
+        "Glottolog_Name": "Tugun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.198,
+          -2.52188
+        ]
+      },
+      "properties": {
+        "Name": "TungagTungakLavongai",
+        "Glottocode": "tung1290",
+        "Glottolog_Name": "Tungag"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.883,
+          -0.29048
+        ]
+      },
+      "properties": {
+        "Name": "Tunjung",
+        "Glottocode": "tunj1244",
+        "Glottolog_Name": "Tunjung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.198088,
+          -8.520813
+        ]
+      },
+      "properties": {
+        "Name": "Tuvalu",
+        "Glottocode": "tuva1244",
+        "xd_ids": [
+          "xd883"
+        ],
+        "Glottolog_Name": "Tuvalu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.396,
+          -9.59044
+        ]
+      },
+      "properties": {
+        "Name": "Ubir",
+        "Glottocode": "ubir1237",
+        "Glottolog_Name": "Ubir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.257,
+          -5.69329
+        ]
+      },
+      "properties": {
+        "Name": "UjirNAru",
+        "Glottocode": "ujir1237",
+        "Glottolog_Name": "Ujir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.084,
+          -18.6747
+        ]
+      },
+      "properties": {
+        "Name": "Ura",
+        "Glottocode": "urav1235",
+        "Glottolog_Name": "Ura (Vanuatu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.207,
+          -13.2903
+        ]
+      },
+      "properties": {
+        "Name": "UveaEast",
+        "Glottocode": "wall1257",
+        "Glottolog_Name": "East Uvean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.589,
+          -20.4145
+        ]
+      },
+      "properties": {
+        "Name": "UveaWest",
+        "Glottocode": "west2516",
+        "Glottolog_Name": "West Uvean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.247188,
+          -10.173335
+        ]
+      },
+      "properties": {
+        "Name": "VaeakauTaumako",
+        "Glottocode": "pile1238",
+        "Glottolog_Name": "Vaeakau-Taumako"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.542,
+          -6.68712
+        ]
+      },
+      "properties": {
+        "Name": "VaghuaChoiseul",
+        "Glottocode": "vagh1249",
+        "xd_ids": [
+          "xd844"
+        ],
+        "Glottolog_Name": "Vaghua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7984,
+          -11.6107
+        ]
+      },
+      "properties": {
+        "Name": "Vano",
+        "Glottocode": "vano1237",
+        "Glottolog_Name": "Lovono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.655,
+          -6.83443
+        ]
+      },
+      "properties": {
+        "Name": "Varisi",
+        "Glottocode": "vari1239",
+        "Glottolog_Name": "Varisi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.489,
+          -4.69751
+        ]
+      },
+      "properties": {
+        "Name": "Vitu",
+        "Glottocode": "mudu1242",
+        "xd_ids": [
+          "xd849"
+        ],
+        "Glottolog_Name": "Muduapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.825,
+          7.6682
+        ]
+      },
+      "properties": {
+        "Name": "WBukidnonManobo",
+        "Glottocode": "west2555",
+        "xd_ids": [
+          "xd738"
+        ],
+        "Glottolog_Name": "Western Bukidnon Manobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.468,
+          -9.69834
+        ]
+      },
+      "properties": {
+        "Name": "Wanukaka",
+        "Glottocode": "wanu1241",
+        "Glottolog_Name": "Wanukaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.633,
+          -2.31142
+        ]
+      },
+      "properties": {
+        "Name": "Waropen",
+        "Glottocode": "waro1242",
+        "xd_ids": [
+          "xd820"
+        ],
+        "Glottolog_Name": "Waropen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.641,
+          -4.47294
+        ]
+      },
+      "properties": {
+        "Name": "Watubela",
+        "Glottocode": "watu1247",
+        "Glottolog_Name": "Watubela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.349,
+          -9.55099
+        ]
+      },
+      "properties": {
+        "Name": "WejewaTanaRighu_D",
+        "Glottocode": "weje1237",
+        "Glottolog_Name": "Wewewa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.179,
+          -3.43514
+        ]
+      },
+      "properties": {
+        "Name": "Werinama",
+        "Glottocode": "bobo1254",
+        "Glottolog_Name": "Bobot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.996,
+          -2.25622
+        ]
+      },
+      "properties": {
+        "Name": "WindesiWandamen",
+        "Glottocode": "wand1267",
+        "Glottolog_Name": "Wandamen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.089,
+          -3.20238
+        ]
+      },
+      "properties": {
+        "Name": "Wogeo",
+        "Glottocode": "woge1237",
+        "xd_ids": [
+          "xd818"
+        ],
+        "Glottolog_Name": "Wogeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.916,
+          7.37957
+        ]
+      },
+      "properties": {
+        "Name": "Woleai",
+        "Glottocode": "wole1240",
+        "xd_ids": [
+          "xd835"
+        ],
+        "Glottolog_Name": "Woleaian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.916,
+          7.37957
+        ]
+      },
+      "properties": {
+        "Name": "Woleaian",
+        "Glottocode": "wole1240",
+        "xd_ids": [
+          "xd831"
+        ],
+        "Glottolog_Name": "Woleaian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.67,
+          -5.33
+        ]
+      },
+      "properties": {
+        "Name": "Wolio",
+        "Glottocode": "woli1241",
+        "Glottolog_Name": "Wolio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.541,
+          -5.40419
+        ]
+      },
+      "properties": {
+        "Name": "Wuna",
+        "Glottocode": "muna1247",
+        "Glottolog_Name": "Muna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.851,
+          -1.73938
+        ]
+      },
+      "properties": {
+        "Name": "Wuvulu",
+        "Glottocode": "wuvu1239",
+        "xd_ids": [
+          "xd845"
+        ],
+        "Glottolog_Name": "Wuvulu-Aua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.021729,
+          6.531023
+        ]
+      },
+      "properties": {
+        "Name": "Yakan",
+        "Glottocode": "yaka1277",
+        "Glottolog_Name": "Yakan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.44,
+          -7.73722
+        ]
+      },
+      "properties": {
+        "Name": "Yamdena",
+        "Glottocode": "yamd1240",
+        "Glottolog_Name": "Yamdena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544,
+          22.055
+        ]
+      },
+      "properties": {
+        "Name": "Yami",
+        "Glottocode": "yami1254",
+        "xd_ids": [
+          "xd737"
+        ],
+        "Glottolog_Name": "Yami"
+      }
+    }
+  ]
+}
